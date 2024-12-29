@@ -2,7 +2,7 @@
 name: "Pete Cipolone"
 nickname: "Pete"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Welcome to Big Onion Security. My name is"
+greeting: "Welcome to Big Onion Security Company. My name is"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
