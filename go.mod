@@ -1,4 +1,4 @@
-module github.com/cipolone95/cipolone95.github.io
+module github.com/bigonionsecurity/bigonionsecurity.github.io
 
 go 1.21
 
