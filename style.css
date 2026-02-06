@@ -301,7 +301,7 @@ section#contact a:hover {
     font-weight: bold;
     border: none;
     cursor: pointer;
-    background-image: linear-gradient(to right, #B8CFFF 0%, #B8CFFF 51%, #B8CFFF 100%);
+    background-image: linear-gradient(to right, #042666 0%, #042666 51%, #042666 100%);
     background-size: 200% auto;
     transition: background-position 0.5s ease;
 }
