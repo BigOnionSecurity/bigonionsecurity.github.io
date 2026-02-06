@@ -21,7 +21,7 @@ header {
     width: 100%;
     top: 0;
     z-index: 1000;
-    border-bottom: 2px solid #e62c30;
+    border-bottom: 2px solid #B8CFFF;
 }
 
 nav .container {
@@ -64,7 +64,7 @@ nav a {
 }
 
 nav a.active {
-    color: #e62c30;
+    color: #B8CFFF;
 }
 
 
@@ -301,7 +301,7 @@ section#contact a:hover {
     font-weight: bold;
     border: none;
     cursor: pointer;
-    background-image: linear-gradient(to right, #e62c30 0%, #b82428 51%, #e62c30 100%);
+    background-image: linear-gradient(to right, #B8CFFF 0%, #B8CFFF 51%, #B8CFFF 100%);
     background-size: 200% auto;
     transition: background-position 0.5s ease;
 }
@@ -361,7 +361,7 @@ section#contact a:hover {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #000;
+    background-color: #042666;
     color: #fafbf2;
     border-top: 2px solid #B8CFFF;
 }
