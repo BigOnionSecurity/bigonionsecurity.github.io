@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #272727;
+    background-color: #042666;
     color: #fafbf2;
     padding: 5px 0;
     position: fixed;
@@ -163,7 +163,7 @@ section h2 {
     text-align: center;
     margin-bottom: 40px;
     font-size: 2.2rem; /* Slightly increase size for the new font */
-    color: #e62c30;
+    color: #B8CFFF;
     text-transform: uppercase; /* Optional: for a stronger look */
 }
 
@@ -177,7 +177,7 @@ section#contact p {
 }
 
 section#contact a {
-    color: #e62c30;
+    color: #B8CFFF;
     text-decoration: none;
     font-weight: bold;
 }
@@ -219,7 +219,7 @@ section#contact a:hover {
 }
 
 .pricing-item h3 {
-    color: #e62c30;
+    color: #B8CFFF;
     font-size: 1.5rem;
     margin-top: 0;
 }
@@ -266,8 +266,8 @@ section#contact a:hover {
 }
 
 #expertise .expertise-column h3 span {
-    color: #e62c30;
-    border-bottom: 2px solid #e62c30;
+    color: #B8CFFF;
+    border-bottom: 2px solid #B8CFFF;
     padding-bottom: 10px;
     display: inline-block; /* Ensures border is only under the text */
 }
@@ -338,7 +338,7 @@ section#contact a:hover {
     background: #1a1a1a;
     padding: 20px;
     border-radius: 5px;
-    border-left: 3px solid #e62c30;
+    border-left: 3px solid #B8CFFF;
     text-align: center;
 }
 
@@ -354,7 +354,7 @@ section#contact a:hover {
 }
 
 .service-item h3 {
-    color: #e62c30;
+    color: #B8CFFF;
     margin-top: 0;
 }
 
@@ -363,7 +363,7 @@ footer {
     padding: 20px;
     background-color: #000;
     color: #fafbf2;
-    border-top: 2px solid #e62c30;
+    border-top: 2px solid #B8CFFF;
 }
 
 .contact-form {
@@ -401,7 +401,7 @@ footer {
     padding: 30px;
     margin-bottom: 30px;
     border-radius: 5px;
-    border-left: 3px solid #e62c30;
+    border-left: 3px solid #B8CFFF;
 }
 
 .blog-post-item h3 a {
@@ -412,7 +412,7 @@ footer {
 }
 
 .blog-post-item h3 a:hover {
-    color: #e62c30;
+    color: #B8CFFF;
 }
 
 .post-meta {
@@ -437,7 +437,7 @@ footer {
 }
 
 #post-content h2, #post-content h3 {
-    color: #e62c30; /* Keep subheadings red */
+    color: #B8CFFF; /* Keep subheadings red */
 }
 
 #post-content h2 {
@@ -491,7 +491,7 @@ footer {
 }
 
 .blog-sidebar h3 {
-    color: #e62c30;
+    color: #B8CFFF;
     border-bottom: 2px solid #333;
     padding-bottom: 10px;
 }
@@ -512,7 +512,7 @@ footer {
 }
 
 .blog-sidebar ul li a:hover {
-    color: #e62c30;
+    color: #B8CFFF;
 }
 
 #blog-posts, #post-content {
