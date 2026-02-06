@@ -86,10 +86,10 @@ nav a.active {
     content: '';
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('assets/Logo-3@4x-100.jpg');
-    background-size: 1400px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('assets/Asset6@4x-8.png');
+    background-size: 800px;
     background-repeat: no-repeat;
-    background-position: center 100%;
+    background-position: center 1%;
     max-width: 1920px;
     margin: 0 auto;
     z-index: 1;
