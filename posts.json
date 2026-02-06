@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Understanding the Top 5 Web Application Vulnerabilities",
+        "date": "December 19, 2025",
+        "author": "Jane Doe",
+        "summary": "In this post, we break down the most common and critical web application vulnerabilities that could be affecting your business, from SQL Injection to Cross-Site Scripting (XSS)...",
+        "file": "top-5-vulns.md"
+    },
+    {
+        "title": "The Human Element: Why Social Engineering is Still a Major Threat",
+        "date": "December 12, 2025",
+        "author": "John Smith",
+        "summary": "Technology can only go so far. We explore the persistent threat of social engineering and why investing in your team's security awareness is one of the best defenses you can have...",
+        "file": "social-engineering.md"
+    },
+    {
+        "title": "Cloud Misconfigurations: The Silent Risk to Your Data",
+        "date": "December 5, 2025",
+        "author": "Jane Doe",
+        "summary": "Moving to the cloud offers incredible benefits, but it also introduces new risks. Learn about the most common cloud security misconfigurations and how to protect your AWS, Azure, or GCP environment...",
+        "file": "cloud-misconfigurations.md"
+    }
+]
